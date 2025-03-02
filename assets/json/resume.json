@@ -1,54 +1,60 @@
 {
+  "meta": {
+    "theme": "professional"
+  },
   "basics": {
     "name": "velmurugan velayutham",
     "label": "Technical System Analyst Staff at Juniper Networks",
-    "picture": "",
-    "email": "",
-    "website": "",
-    "summary": "To make a sound position in corporate world and work enthusiastically in team to achieve goal of the organization/MNC with devotion and hard work.",
+    "picture": "https://velmuruganvelayutham.github.io/assets/img/prof_pic-800.webp",
+    "email": "mailtovelmuruga@gmail.com",
+    "website": "https://velmuruganvelayutham.github.io/",
+    "summary": "Results-driven Technical Lead with 13+ years of experience in web application development. Expertise in Java 17, Spring Boot, and ReactJS, with a strong track record of delivering scalable, high-performance cloud-native applications. Proven ability to lead cross-functional teams and manage complex projects. Passionate about mentoring junior developers and contributing to open-source projects.",
     "location": {
-      "address": "",
-      "postalCode": "560056",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "address": "Kalyan Nagar",
+      "postalCode": "560043",
+      "city": "Bengaluru",
+      "countryCode": "IN",
+      "region": "Karnataka"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "username": "velmuruganv",
+        "url": "https://linkedin.com/in/velmuruganv",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/velmuruganvelayutham",
+        "username": "velmuruganvelayutham",
+        "network": "github"
+      }
+    ]
   },
   "work": [
     {
       "company": "Juniper Networks",
       "position": "Technical System Analyst Staff",
-      "website": "",
-      "startDate": "2022-02-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "company": "Juniper Networks",
-      "position": "Technical System Analyst 5",
-      "website": "",
-      "startDate": "2019-04-01",
-      "summary": "",
-      "highlights": [],
-      "endDate": "2022-02-01"
-    },
-    {
-      "company": "Juniper Networks",
-      "position": "Technical System Analyst 4",
-      "website": "",
-      "startDate": "2017-12-01",
-      "summary": "",
-      "highlights": [],
-      "endDate": "2019-04-01"
+      "website": "https://www.juniper.net",
+      "startDate": "2017-12-04",
+      "summary": "Working as a Technical System Analyst Staff at Juniper Networks. Responsible for designing and implementing the logic to build the software component assigned.",
+      "highlights": [
+        "Leadership & Team Management",
+        "System Optimization & Development",
+        "Full-Stack Development/Architecture",
+        "Agile Methodologies",
+        "CI/CD Pipelines",
+        "DevOps & Cloud-Native Technologies"
+      ]
     },
     {
       "company": "Mobile Programming LLC.",
       "position": "Senior Software Engineer",
       "website": "",
       "startDate": "2016-11-01",
-      "summary": "",
-      "highlights": [],
+      "summary": "worked as a Senior Software Engineer at Mobile Programming LLC. Responsible for designing and implementing the logic to build the software component assigned.",
+      "highlights": [
+        "Full-Stack Development/Architecture",
+        "Agile Methodologies"
+      ],
       "endDate": "2017-12-01"
     },
     {
@@ -72,221 +78,160 @@
   ],
   "education": [
     {
-      "institution": "Free Code Camp",
-      "area": "",
-      "studyType": "Full Stack Web Development Certification",
-      "startDate": "2015-01-01",
+      "institution": "St.Xaviers catholic college of engineering, Anna University",
+      "area": "Information Technology - B Tech.",
+      "studyType": "Bachelors",
+      "startDate": "2005-01-01",
       "gpa": "",
       "courses": [],
-      "endDate": "2017-01-01"
+      "endDate": "2009-01-01"
     }
   ],
   "skills": [
     {
-      "name": "Databases",
-      "level": "",
-      "keywords": []
+      "keywords": [
+        "HTML / JSX",
+        "SCSS / CSS / BEM / Styled Components",
+        "Javascript / Typescript",
+        "React / Next",
+        "Redux"
+      ],
+      "level": "Senior",
+      "name": "Frontend"
     },
     {
-      "name": "Web Development",
-      "level": "",
-      "keywords": []
+      "keywords": [
+        "Node",
+        "Java",
+        "Python",
+        "Spring Boot",
+        "Spring Cloud",
+        "microservices",
+        "Express",
+        "Postgres",
+        "Redis",
+        "Serverless",
+        "Kafka",
+        "Hibernate",
+        "JPA",
+        "Junit",
+        "Mockito",
+        "Maven",
+        "Gradle",
+        "Git"
+      ],
+      "level": "Senior",
+      "name": "Backend"
     },
     {
-      "name": "Object-Oriented Programming (OOP)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Spring Boot",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Amazon Web Services (AWS)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "J2EE Application Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Oracle Certified Java Professional (OCJP)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Openbravo",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Java",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Hibernate",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Tomcat",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JSP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Servlets",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Ant",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Core Java",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Jasper Reports",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MySQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JDBC",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JUnit",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "RESTful WebServices",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Eclipse",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Spring",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Java Enterprise Edition",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JSON",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "REST",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MVC",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SOAP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Spring Framework",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "XML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "jQuery",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "AJAX",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Agile Methodologies",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Java Database Connectivity (JDBC)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Maven",
-      "level": "",
-      "keywords": []
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Heroku",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD",
+        "Monitoring",
+        "Logging",
+        "Security",
+        "Networking",
+        "Prometheus",
+        "Grafana",
+        "ELK",
+        "Ansible",
+        "Github Actions",
+        "Gitlab CI"
+      ],
+      "level": "Senior",
+      "name": "Devops"
     }
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "date": "2021-05-02",
+      "issuer": "Amazon Web Services (AWS)",
+      "url": "https://www.credly.com/earner/earned/badge/f2804d82-f43a-4030-8a69-83790e066fd2"
+    },
+    {
+      "name": "CKA: Certified Kubernetes Administrator",
+      "date": "2021-04-21",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/badges/fa8c9af4-4bb0-4f83-a93d-a06dc2ddef0f"
+    },
+    {
+      "name": "CKAD: Certified Kubernetes Application Developer",
+      "date": "2020-01-19",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/badges/65ba21d4-b7b8-422a-be20-cb856ddc2d48"
+    },
+    {
+      "name": "CKS: Certified Kubernetes Security Specialist",
+      "date": "2021-12-27",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/badges/8a49788f-e34e-4ba5-917b-1b0beaf83624?source=linked_in_profile"
+    },
+    {
+      "name": "LFCS: Linux Foundation Certified Systems Administrator",
+      "date": "2022-05-05",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/earner/earned/badge/3860f43b-8ba5-423d-a2d4-299218135baf"
+    },
+    {
+      "name": "LFCA: Linux Foundation Certified IT Associate",
+      "date": "2022-02-25",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/earner/earned/badge/4d5c9c31-6bed-4681-b2c4-197c74383516"
+    },
+    {
+      "name": "Java SE 6 Programmer Certified Professional",
+      "date": "2011-07-01",
+      "issuer": "Oracle",
+      "url": "https://www.credly.com/badges/8593b08d-accf-458a-8fb5-d0181fd76551"
+    },
+    {
+      "name": "Oracle Certified Expert, Java EE 6 Java Persistence API Developer",
+      "date": "2013-11-30",
+      "issuer": "Oracle",
+      "url": "https://www.credly.com/badges/cf91b616-ab8f-4c06-9631-4d86f070b90b"
+    },
+    {
+      "name": "Oracle Certified Expert, Java EE 6 Web Component Developer.",
+      "date": "2013-08-20",
+      "issuer": "Oracle",
+      "url": "https://www.credly.com/badges/816c70ac-4771-4f1b-a5c7-71fbc280e1d8"
+    },
+    {
+      "name": "Spring Professional v5.0",
+      "date": "2019-01-07",
+      "issuer": "Pivotal",
+      "url": "https://bcert.me/syetumgwa"
+    }
+  ],
+  "projects": [
+    {
+      "highlights": [],
+      "description": "",
+      "website": "http://jsonresume.org",
+      "name": "JSON Resume",
+      "startDate": "2014-04-01"
+    },
+    {
+      "highlights": [],
+      "description": "",
+      "website": "http://www.cdnjs.com",
+      "name": "Cdnjs",
+      "startDate": "2011-01-08"
     }
   ]
 }
