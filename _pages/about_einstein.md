@@ -4,5 +4,5 @@ Proficient in Java, Spring Boot, ReactJS, Node.js, MongoDB, Go, and Python, show
 
 Passionate about designing, developing, and deploying enterprise-grade solutions, ensuring efficiency, scalability, and seamless user experiences.
 
-[LinkedIn](https://linkedin.com/in/velmuruganv/)
-[GitHub](https://github.com/velmuruganvelayutham/)
+1. [LinkedIn](https://linkedin.com/in/velmuruganv/)
+2. [GitHub](https://github.com/velmuruganvelayutham/)
