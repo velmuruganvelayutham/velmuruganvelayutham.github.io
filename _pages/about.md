@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>18-6-27</p>
-    <p>Kovil Street</p>
-    <p>Surandai, Tamilnadu, India</p>
+    <p>Kalyan Nagar</p>
+    <p>Bengalore, Karnataka, India</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,3 +33,4 @@ Proficient in Java, Spring Boot, ReactJS, Node.js, MongoDB, Go, and Python, show
 Passionate about designing, developing, and deploying enterprise-grade solutions, ensuring efficiency, scalability, and seamless user experiences.
 
 [LinkedIn](https://linkedin.com/in/velmuruganv/)
+[GitHub](https://github.com/velmuruganvelayutham/)
