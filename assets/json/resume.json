@@ -36,15 +36,14 @@
       "position": "Technical System Analyst Staff",
       "website": "https://www.juniper.net",
       "startDate": "2017-12-01",
-      "endDate": "2025-07-25",
-      "summary": "Technical System Analyst at Juniper Networks with a strong background in full-stack development (ReactJS/NextJS) and cloud-native architectures. Led a 10-member engineering team in designing and delivering scalable microservices, while also championing critical system optimizations such as a 40% reduction in response times through Redis caching and achieving 99.9% system uptime by migrating to AWS. Proficient in automating CI/CD pipelines with Jenkins and Terraform, resulting in a 75% reduction in deployment time.",
+      "endDate": "",
+      "summary": "Technical System Analyst at Juniper Networks leading full-stack development, cloud-native architectures, and team management for critical enterprise systems.",
       "highlights": [
-        "Leadership & Team Management",
-        "System Optimization & Development",
-        "Full-Stack Development/Architecture",
-        "Agile Methodologies",
-        "CI/CD Pipelines",
-        "DevOps & Cloud-Native Technologies"
+        "Led a 10-member engineering team in designing and delivering scalable microservices.",
+        "Championed critical system optimizations, achieving a 40% reduction in response times through Redis caching.",
+        "Achieved 99.9% system uptime by successfully migrating legacy systems to AWS cloud-native architectures.",
+        "Automated CI/CD pipelines with GitHub Actions and Terraform, resulting in a 75% reduction in deployment time.",
+        "Proficient in ReactJS/NextJS for full-stack development and cloud-native architectures."
       ]
     },
     {
@@ -55,8 +54,10 @@
       "endDate": "2017-12-01",
       "summary": "Worked as a Senior Full Stack Developer, responsible for designing and implementing scalable web applications using modern frameworks and technologies.",
       "highlights": [
-        "Full-Stack Development/Architecture",
-        "Agile Methodologies"
+        "Designed and implemented scalable web applications using ReactJS and Spring Boot frameworks.",
+        "Collaborated with cross-functional teams to deliver high-quality software solutions.",
+        "Optimized application performance and ensured responsiveness across devices.",
+        "Participated in code reviews and provided mentorship to junior developers."
       ]
     },
     {
@@ -66,7 +67,9 @@
       "startDate": "2015-03-01",
       "endDate": "2016-11-01",
       "summary": "Developed and integrated the underlying logic for specific software components, ensuring robust and efficient functionality.",
-      "highlights": []
+      "highlights": [
+        "Contributed to full-stack web development, focusing on JSP, Struts, and early Spring MVC."
+      ]
     },
     {
       "company": "Sigma Infosolutions",
@@ -75,13 +78,15 @@
       "startDate": "2011-07-01",
       "endDate": "2015-03-01",
       "summary": "Developed and integrated the underlying logic for specific software components, ensuring robust and efficient functionality.",
-      "highlights": []
+      "highlights": [
+        "Contributed to full-stack web development, focusing on JSP, Struts, and early Spring MVC."
+      ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "St.Xaviers Catholic College of Engineering, Anna University",
+      "institution": "St. Xaviers - SXCCE, Anna University",
       "area": "Information Technology",
       "studyType": "B.Tech",
       "startDate": "2005-01-01",
@@ -94,19 +99,26 @@
   "publications": [],
   "skills": [
     {
-      "name": "Frontend (ReactJS)",
+      "name": "Frontend",
       "level": "Advanced",
       "keywords": [
         "Expert-level ReactJS",
         "JavaScript/TypeScript",
-        "HTML5 & CSS3"
+        "HTML5 & CSS3",
+        "Tailwind CSS",
+        "NextJS",
+        "Redux",
+        "Jest",
+        "Cypress"
       ]
     },
     {
-      "name": "Backend (Spring Boot & Java)",
+      "name": "Backend",
       "level": "Expert",
       "keywords": [
         "Java",
+        "Python",
+        "GoLang",
         "Spring Security",
         "Spring Web",
         "Service Discovery",
@@ -188,7 +200,7 @@
     {
       "name": "SWDL - Software Downloads",
       "startDate": "2023-03-01",
-      "endDate": "2025-07-25",
+      "endDate": "",
       "description": "Customer facing applications to help download software packages and updates through Juniper Single Sign-On (SSO).",
       "highlights": [
         "Facilitates legal and efficient software distribution by integrating with Juniper's internal systems for license validation and entitlement checks.",
@@ -214,7 +226,7 @@
       "name": "IP Validation Service",
       "startDate": "2021-03-01",
       "endDate": "2022-02-28",
-      "description": "",
+      "description": "IP address lookup and Geolocation service for Juniper's customer-facing applications.",
       "highlights": [
         "Ensures legal compliance and regional access control by validating IP addresses against geolocation data (e.g., MaxMind DB) to identify origin and restrict access from embargoed countries.",
         "Provides real-time feedback to users.",
@@ -232,7 +244,7 @@
       "url": "https://www.credly.com/badges/8593b08d-accf-458a-8fb5-d0181fd76551"
     },
     {
-      "name": "Oracle Certified Expert, Java EE 6 Web Component Developer.",
+      "name": "Oracle Certified Expert, Java EE 6 Web Component Developer",
       "date": "2013-08-01",
       "issuer": "Oracle",
       "url": "https://www.credly.com/badges/816c70ac-4771-4f1b-a5c7-71fbc280e1d8"
@@ -246,7 +258,7 @@
     {
       "name": "Spring Professional v5.0",
       "date": "2019-07-01",
-      "issuer": "Pivotal Software, Inc.",
+      "issuer": "Pivotal Software, Inc",
       "url": "https://bcert.me/syetumgwa"
     },
     {
