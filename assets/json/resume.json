@@ -43,7 +43,9 @@
         "Championed critical system optimizations, achieving a 40% reduction in response times through Redis caching.",
         "Achieved 99.9% system uptime by successfully migrating legacy systems to AWS cloud-native architectures.",
         "Automated CI/CD pipelines with GitHub Actions and Terraform, resulting in a 75% reduction in deployment time.",
-        "Proficient in ReactJS/NextJS for full-stack development and cloud-native architectures."
+        "Proficient in ReactJS/NextJS for full-stack development and cloud-native architectures.",
+        "Optimized API Gateway integration, enabling support for large file uploads with S3 pre-signed URLs.",
+        "Boosted system reliability by 20% through proactive monitoring and root cause analysis."
       ]
     },
     {
@@ -118,7 +120,9 @@
       "keywords": [
         "Java",
         "Python",
-        "GoLang",
+        "Go",
+        "NodeJS",
+        "ExpressJS",
         "Spring Security",
         "Spring Web",
         "Service Discovery",
