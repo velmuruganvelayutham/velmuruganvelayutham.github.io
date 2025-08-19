@@ -33,10 +33,10 @@
   "work": [
     {
       "company": "Juniper Networks",
-      "position": "Technical System Analyst Staff - Juniper Networks",
+      "position": "Technical System Analyst Staff - [Juniper Networks]",
       "website": "https://www.juniper.net",
       "startDate": "2017-12-01",
-      "endDate": "",
+      "endDate": "2025-08-19",
       "summary": "Technical System Analyst at Juniper Networks leading full-stack development, cloud-native architectures, and team management for critical enterprise systems.",
       "highlights": [
         "Led a 10-member engineering team in designing and delivering scalable microservices.",
@@ -50,7 +50,7 @@
     },
     {
       "company": "Mobile Programming LLC.",
-      "position": "Senior Software Engineer - Mobile Programming LLC.",
+      "position": "Senior Software Engineer - [Mobile Programming LLC.]",
       "website": "",
       "startDate": "2016-11-01",
       "endDate": "2017-12-01",
@@ -64,7 +64,7 @@
     },
     {
       "company": "Infinite Computer Solutions",
-      "position": "Senior Software Engineer - Infinite Computer Solutions",
+      "position": "Senior Software Engineer - [Infinite Computer Solutions]",
       "website": "",
       "startDate": "2015-03-01",
       "endDate": "2016-11-01",
@@ -75,7 +75,7 @@
     },
     {
       "company": "Sigma Infosolutions",
-      "position": "Software Engineer - Sigma Infosolutions",
+      "position": "Software Engineer - [Sigma Infosolutions]",
       "website": "",
       "startDate": "2011-07-01",
       "endDate": "2015-03-01",
@@ -204,7 +204,7 @@
     {
       "name": "SWDL - Software Downloads",
       "startDate": "2023-03-01",
-      "endDate": "",
+      "endDate": "2025-07-01",
       "description": "Customer facing applications to help download software packages and updates through Juniper Single Sign-On (SSO).",
       "highlights": [
         "Facilitates legal and efficient software distribution by integrating with Juniper's internal systems for license validation and entitlement checks.",
